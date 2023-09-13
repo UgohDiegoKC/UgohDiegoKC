@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **diegokingsley14@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AlZjX-Y_cD-tguhHp3OG2oeb8ZTFQw?e=CuA4MU](https://1drv.ms/b/s!AlZjX-Y_cD-tguhHp3OG2oeb8ZTFQw?e=CuA4MU)
-
 - ⚡ Fun fact **I love to upskill.**
 
 ### Blogs posts
