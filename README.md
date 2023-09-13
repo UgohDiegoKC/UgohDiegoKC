@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **diegokingsley14@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/diego-kingsley-ugoh](https://linkedin.com/in/diego-kingsley-ugoh)
+- 📄 Know about my experiences [https://1drv.ms/b/s!AlZjX-Y_cD-tguhHp3OG2oeb8ZTFQw?e=CuA4MU](https://1drv.ms/b/s!AlZjX-Y_cD-tguhHp3OG2oeb8ZTFQw?e=CuA4MU)
 
 - ⚡ Fun fact **I love to upskill.**
 
@@ -32,7 +32,6 @@
 <a href="https://fb.com/diegokc.ugoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diegokc.ugoh" height="30" width="40" /></a>
 <a href="https://instagram.com/captain_juandiego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="captain_juandiego" height="30" width="40" /></a>
 <a href="https://medium.com/@diegokc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@diegokc" height="30" width="40" /></a>
-<a href="https://discord.gg/3733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3733" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
